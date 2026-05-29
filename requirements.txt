@@ -1,0 +1,19 @@
+# Web Scraping
+selenium
+webdriver-manager
+requests
+bs4
+pyyaml
+
+# System & Hardware Analysis
+psutil
+ollama
+
+# UI & Data Visualization
+streamlit
+pandas
+
+# Utilities
+python-dateutil
+
+beautifulsoup4

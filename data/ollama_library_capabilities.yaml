@@ -1,0 +1,424 @@
+llama3.1:
+- tools
+deepseek-r1:
+- thinking
+- tools
+nomic-embed-text:
+- embedding
+llama3.2:
+- tools
+gemma3:
+- vision
+- cloud
+qwen2.5:
+- tools
+qwen3:
+- thinking
+- tools
+mistral:
+- tools
+llama3: []
+gemma2: []
+phi3: []
+qwen2.5-coder:
+- tools
+llava:
+- vision
+qwen3.5:
+- thinking
+- tools
+- vision
+- cloud
+mxbai-embed-large:
+- embedding
+gemma4:
+- cloud
+- thinking
+- vision
+- audio
+- tools
+gpt-oss:
+- thinking
+- tools
+- cloud
+phi4: []
+gemma: []
+llama2: []
+qwen: []
+qwen2:
+- tools
+qwen3-coder:
+- tools
+- cloud
+codellama: []
+minicpm-v:
+- vision
+tinyllama: []
+mistral-nemo:
+- tools
+llama3.2-vision:
+- vision
+bge-m3:
+- embedding
+deepseek-coder: []
+llama3.3:
+- tools
+qwen3-vl:
+- thinking
+- tools
+- vision
+- cloud
+dolphin3: []
+deepseek-v3: []
+olmo2: []
+smollm2:
+- tools
+snowflake-arctic-embed:
+- embedding
+all-minilm:
+- embedding
+mistral-small:
+- tools
+codegemma: []
+granite3.1-moe:
+- tools
+orca-mini: []
+starcoder2: []
+mixtral:
+- tools
+deepseek-coder-v2: []
+llama2-uncensored: []
+falcon3: []
+nemotron-3-super:
+- thinking
+- tools
+- cloud
+glm-5:
+- thinking
+- tools
+- cloud
+llava-llama3:
+- vision
+qwq:
+- tools
+minimax-m2.5:
+- thinking
+- tools
+- cloud
+gemini-3-flash-preview:
+- thinking
+- tools
+- vision
+- cloud
+glm-5.1:
+- thinking
+- tools
+- cloud
+minimax-m2.7:
+- thinking
+- tools
+- cloud
+mistral-small3.2:
+- tools
+- vision
+glm-4.6:
+- thinking
+- tools
+- cloud
+minimax-m2:
+- thinking
+- tools
+- cloud
+glm-4.7:
+- thinking
+- tools
+- cloud
+deepseek-v3.2:
+- thinking
+- tools
+- cloud
+kimi-k2-thinking:
+- thinking
+- tools
+- cloud
+minimax-m2.1:
+- tools
+- cloud
+cogito:
+- tools
+qwen2.5vl:
+- vision
+dolphin-llama3: []
+qwen3-embedding:
+- embedding
+smollm: []
+dolphin-mixtral: []
+qwen3.6:
+- thinking
+- tools
+- vision
+llama4:
+- tools
+- vision
+gemma3n: []
+phi4-reasoning: []
+dolphin-phi: []
+translategemma:
+- vision
+phi: []
+dolphin-mistral: []
+magistral:
+- thinking
+- tools
+command-r:
+- tools
+hermes3:
+- tools
+granite-code: []
+qwen3-coder-next:
+- tools
+- cloud
+embeddinggemma:
+- embedding
+glm-4.7-flash:
+- thinking
+- tools
+codestral: []
+deepscaler: []
+moondream:
+- vision
+yi: []
+granite4:
+- tools
+lfm2.5-thinking:
+- tools
+zephyr: []
+mistral-large:
+- tools
+wizard-vicuna-uncensored: []
+ministral-3:
+- tools
+- vision
+- cloud
+phi4-mini:
+- tools
+openthinker: []
+wizardlm2: []
+glm4: []
+starcoder: []
+deepseek-v2: []
+nous-hermes: []
+deepseek-llm: []
+lfm2:
+- tools
+openchat: []
+falcon: []
+vicuna: []
+codeqwen: []
+openhermes: []
+qwen2-math: []
+aya: []
+granite3.3:
+- tools
+neural-chat: []
+llama2-chinese: []
+stable-code: []
+nous-hermes2: []
+sqlcoder: []
+wizardcoder: []
+yi-coder: []
+stablelm2: []
+granite3-dense:
+- tools
+llama3-chatqa: []
+granite3.1-dense:
+- tools
+llama-guard3: []
+dolphincoder: []
+wizard-math: []
+devstral:
+- tools
+llama3-gradient: []
+samantha-mistral: []
+phi3.5: []
+llama3-groq-tool-use:
+- tools
+internlm2: []
+aya-expanse:
+- tools
+starling-lm: []
+solar: []
+phind-codellama: []
+granite3.2-vision:
+- tools
+- vision
+xwinlm: []
+granite3-moe:
+- tools
+yarn-llama2: []
+orca2: []
+glm-ocr:
+- tools
+- vision
+stable-beluga: []
+reader-lm: []
+shieldgemma: []
+deepcoder: []
+llama-pro: []
+yarn-mistral: []
+nexusraven: []
+bakllava:
+- vision
+paraphrase-multilingual:
+- embedding
+devstral-small-2:
+- tools
+- vision
+- cloud
+wizardlm: []
+command-r-plus:
+- tools
+mistral-small3.1:
+- tools
+- vision
+exaone-deep: []
+meditron: []
+tinydolphin: []
+deepseek-v3.1:
+- thinking
+- tools
+- cloud
+nemotron-mini:
+- tools
+codegeex4: []
+mistral-openorca: []
+wizardlm-uncensored: []
+opencoder: []
+nemotron3:
+- thinking
+- audio
+- tools
+- vision
+reflection: []
+nemotron:
+- tools
+codeup: []
+athene-v2:
+- tools
+nous-hermes2-mixtral: []
+qwen3-next:
+- thinking
+- tools
+- cloud
+megadolphin: []
+medllama2: []
+everythinglm: []
+solar-pro: []
+magicoder: []
+mathstral: []
+notus: []
+notux: []
+falcon2: []
+stablelm-zephyr: []
+nuextract: []
+exaone3.5: []
+duckdb-nsql: []
+bespoke-minicheck: []
+mistrallite: []
+firefunction-v2:
+- tools
+wizard-vicuna: []
+open-orca-platypus2: []
+codebooga: []
+rnj-1:
+- tools
+- cloud
+goliath: []
+nemotron-3-nano:
+- thinking
+- tools
+- cloud
+deepseek-ocr:
+- vision
+granite3.2:
+- tools
+olmo-3: []
+r1-1776: []
+snowflake-arctic-embed2:
+- embedding
+sailor2: []
+tulu3: []
+granite-embedding:
+- embedding
+granite3-guardian: []
+dbrx: []
+kimi-k2.5:
+- thinking
+- tools
+- vision
+- cloud
+llava-phi3:
+- vision
+deepseek-v2.5: []
+olmo-3.1:
+- tools
+phi4-mini-reasoning: []
+kimi-k2.6:
+- thinking
+- tools
+- vision
+- cloud
+bge-large:
+- embedding
+command-r7b:
+- tools
+smallthinker: []
+nomic-embed-text-v2-moe:
+- embedding
+alfred: []
+devstral-2:
+- tools
+- cloud
+command-a:
+- tools
+marco-o1: []
+command-r7b-arabic:
+- tools
+cogito-2.1:
+- cloud
+functiongemma:
+- tools
+gpt-oss-safeguard:
+- thinking
+- tools
+nemotron-cascade-2:
+- thinking
+- tools
+granite4.1:
+- tools
+deepseek-v4-flash:
+- thinking
+- tools
+- cloud
+deepseek-v4-pro:
+- thinking
+- tools
+- cloud
+kimi-k2:
+- tools
+- cloud
+mistral-large-3:
+- tools
+- vision
+- cloud
+medgemma:
+- vision
+mistral-medium-3.5:
+- thinking
+- tools
+- vision
+medgemma1.5:
+- vision
+laguna-xs.2:
+- thinking
+- tools
