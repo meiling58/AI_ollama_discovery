@@ -4,7 +4,7 @@ Using the Ollama Library Dataset to discover, filter and explore Ollama models w
 
 <details><summary>Screen shot of Ollama Models Discovery</summary>
 
-![Ollama Models Discovery](https://github.com/meiling58/AI_ollama_discovery/blob/screenshot/Screenshot_Discovery_Home.png)
+![Ollama Models Discovery](https://github.com/meiling58/AI_ollama_discovery/blob/main/screenshot/Screenshot_Discovery_Home.png)
 </details>
 
 <details><summary>Project Structure</summary>
