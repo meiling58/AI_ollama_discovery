@@ -26,4 +26,4 @@ def get_capabilities():
 
 # print(unique_values)
 
-# print(get_capabilities())
+# print(len(get_capabilities()))

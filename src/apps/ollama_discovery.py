@@ -200,7 +200,7 @@ col1, col2, col3, col4 = st.columns(4)
 
 col1.metric("Models", len(filtered))
 col2.metric("Total", len(MODELS))
-col3.metric("Capabilities", len(filter_state["capabilities"]) if filter_state["capabilities"] else 0)
+col3.metric("Capabilities", len(filter_state["capabilities"]) if filter_state["capabilities"] else len(capabilities_list))
 
 if size_filter["type"] == "max":
     col4.metric("Max Size", f"{size_filter['value']:.1f} GB")
